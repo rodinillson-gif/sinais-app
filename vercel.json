@@ -1,0 +1,9 @@
+{
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "VITE_APP_TITLE": "@VITE_APP_TITLE",
+    "VITE_APP_ID": "@VITE_APP_ID"
+  }
+}
